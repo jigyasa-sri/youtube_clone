@@ -1,5 +1,5 @@
 YouTube_clone React-Native test project
-Welcome to the React Native Blank Template Project using Expo! This README file will guide you through setting up and running your new React Native project with Expo. Follow these steps to get started.
+Welcome to the YouTube_clone Project using Expo! This README file will guide you through setting up and running your new React Native project with Expo. Follow these steps to get started.
 
 Prerequisites
 Before you begin, ensure you have the following installed:
